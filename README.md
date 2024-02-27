@@ -1,19 +1,14 @@
 # Project in Machine Learning Seminar - Algorithmic Trading - S&P500
 
-### Submited by:
+### Submitted by:
  - Yuval Haski
  - Michael Kogan
  - Michael Hohashvili
  
+ 
 ![alt text](AdobeStock_416057612.jpg)
 
 ## Overview
-- Con
-- Con
-- Con
-- Con
-- Con
-- Con
 
 ## Is it possible to trade using machine learning models on technical analysis parameters?
 
@@ -26,4 +21,4 @@
    - WR
    - ATR
    - CMF
-- We will be using most of the indicators from Pandas_TA Library and only the WR indicator from StockStats Library because we ran into a problem of getting the indicator from Pandas_TA.  
+- We will use most of the indicators from Pandas_TA Library and only the WR indicator from StockStats Library because we ran into a problem getting the indicator from Pandas_TA.  
