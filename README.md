@@ -1,6 +1,6 @@
 # Project in Machine Learning Seminar - Algorithmic Trading - S&P500
 
-### Submited by:
+### Submitted by:
  - Yuval Haski
  - Michael Kogan
  - Michael Hohashvili
