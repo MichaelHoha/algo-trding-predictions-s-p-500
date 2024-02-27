@@ -26,4 +26,4 @@
    - WR
    - ATR
    - CMF
-- We will be using most of the indicators from Pandas_TA Library and only the WR indicator from StockStats Library because we ran into a problem of getting the indicator from Pandas_TA.  
+- We will use most of the indicators from Pandas_TA Library and only the WR indicator from StockStats Library because we ran into a problem getting the indicator from Pandas_TA.  
