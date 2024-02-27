@@ -8,12 +8,7 @@
 ![alt text](AdobeStock_416057612.jpg)
 
 ## Overview
-- Con
-- Con
-- Con
-- Con
-- Con
-- Con
+
 
 ## Is it possible to trade using machine learning models on technical analysis parameters?
 
